@@ -29,8 +29,7 @@ const styles = StyleSheet.create({
   },
   input: {
     width: '80%',
-    borderColor: 'navy',
-    borderWidth: 1,
+    borderColor: 'blue',
     padding: 10,
     fontFamily: 
     "Lucida handwriting"
